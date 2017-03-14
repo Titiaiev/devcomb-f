@@ -1,6 +1,5 @@
 {
   "name": "devcomb-f",
-  "version": "0.0.1",
   "homepage": "https://github.com/Titiaiev/devcomb-f",
   "authors": [
     "Maksim Titiaiev <m.titiaiev@gmail.com>"
@@ -8,6 +7,18 @@
   "description": "Комбайн для сборки фронт-энд с помощью gulp, с применением готовых блоков. Combine for assembling the front end with gulp, using ready-made blocks.",
   "license": "MIT",
   "dependencies": {
-
-  }
+    "normalize.css": "*",
+    "jquery": "2.*",
+    "bootstrap": "3.*"
+  },
+  "_release": "f126a5ca9c",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "f126a5ca9c3b7a5d129c0f5831dd02bdc172b3a8"
+  },
+  "_source": "https://github.com/titiaiev/devcomb-f.git",
+  "_target": "*",
+  "_originalSource": "devcomb-f",
+  "_direct": true
 }
