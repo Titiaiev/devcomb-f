@@ -1,0 +1,22 @@
+/*
+* Third Party
+*/
+@import "../../bower_components/normalize.css/normalize.css";
+
+
+/*
+* Custom
+*/
+@import "sass/variables";
+
+.svg-gulp { background-color: $img; }
+body{
+        text-align: center;
+    }
+    img{
+        width: 300px;
+    }
+    h1{
+        font-family: sans-serif;
+        font-size: 50px;
+    }
